@@ -1,0 +1,22 @@
+Alien Albert Visits the United States of America
+Created by Mary Pattison
+
+This is an educational computer game designed to teach U.S.A. geography,
+specificaly, the states and their capitals. It was built using Visual Basic
+in Visual Studio Express for Desktop 2012.
+
+In this game, the user is an alien named Albert who is invading the U.S.A.
+Albert will randomly move from state to state and will ask the user to enter the
+capitals (with correct spelling) to complete the mission. Each capital that is 
+answered correctly awards the user one point. 
+High scores can be saved using the 'Save Score' button. This saves the scores
+as a .txt file in the 'bin' folder of the project folder, under 'Debug'.
+
+The user can choose from three missions: 10 states, 25 states, 50 states.
+When all the states in the mission have been completed, the user's score will 
+be shown. The score can be checked at any time during the game with the 
+'Show Score' button.
+
+This program took about 30 hours to develop. It incorporates animation, randomization, 
+loops, If statements, Try statements, Arrays, structures and more. I believe it utilizes
+many of the things I have learned so far.

@@ -1,0 +1,16 @@
+F:\PROGRAMMING\Capstone\Capstone\obj\Debug\Capstone.vbproj.GenerateResource.Cache
+F:\PROGRAMMING\Capstone\Capstone\bin\Debug\AlienAlbertVisitsTheUSA.exe.config
+F:\PROGRAMMING\Capstone\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.AboutAlienAlbert.resources
+F:\PROGRAMMING\Capstone\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.Resources.resources
+F:\PROGRAMMING\Capstone\Capstone\bin\Debug\AlienAlbertVisitsTheUSA.exe
+F:\PROGRAMMING\Capstone\Capstone\bin\Debug\AlienAlbertVisitsTheUSA.pdb
+F:\PROGRAMMING\Capstone\Capstone\bin\Debug\AlienAlbertVisitsTheUSA.xml
+F:\PROGRAMMING\Capstone\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.exe
+F:\PROGRAMMING\Capstone\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.xml
+F:\PROGRAMMING\Capstone\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.pdb
+F:\PROGRAMMING\Capstone\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.MissionSelect.resources
+F:\PROGRAMMING\Capstone\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.AlienAlbert.resources
+F:\PROGRAMMING\AlienAlbert\Capstone\bin\Debug\AlienAlbertVisitsTheUSA.exe.config
+F:\PROGRAMMING\AlienAlbert\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.exe
+F:\PROGRAMMING\AlienAlbert\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.xml
+F:\PROGRAMMING\AlienAlbert\Capstone\obj\Debug\AlienAlbertVisitsTheUSA.pdb

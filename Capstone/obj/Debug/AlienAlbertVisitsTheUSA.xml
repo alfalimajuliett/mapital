@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlienAlbertVisitsTheUSA
+</name>
+</assembly>
+<members>
+<member name="P:AlienAlbertVisitsTheUSA.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AlienAlbertVisitsTheUSA.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AlienAlbertVisitsTheUSA.My.Resources.Resources.Alien_Siren_KevanGC_610357990">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:AlienAlbertVisitsTheUSA.My.Resources.Resources.Laser_SoundBible_com_602495617">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:AlienAlbertVisitsTheUSA.My.Resources.Resources.UFO_Landing_SoundBible_com_1015457638">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="T:AlienAlbertVisitsTheUSA.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
